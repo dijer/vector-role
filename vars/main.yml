@@ -1,0 +1,5 @@
+---
+# vars file for vector
+vector_packages:
+  - vector-server
+vector_dir: "/opt/vector"
